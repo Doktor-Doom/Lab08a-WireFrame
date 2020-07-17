@@ -1,5 +1,5 @@
 header {
-  background: #002549;
+  background: #353636;
   height: 90px;
 }
 nav {
@@ -40,7 +40,7 @@ main > ul:nth-child(2) > li {
   float: left;
   margin-right: 30px; 
 }
-main > ul:nth-child(2) > li:nth-child(3) {
+main > ul:nth-child(3) > li:nth-child(3) {
   margin-right: 0;
 }
 main > article {
@@ -61,7 +61,7 @@ main > article > section > p {
 }
 footer {
   height: 100px;
-  background-color: #002549;
+  background-color: #353636;
   margin-top: 30px;
 }
 button:hover {
